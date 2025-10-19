@@ -1,0 +1,7 @@
+.venv/
+warehouse.duckdb
+data/bronze/
+data/silver/
+data/gold/
+__pycache__/
+*.pyc
